@@ -1,7 +1,7 @@
 {
-  "name": "nest-template",
+  "name": "nice-locations",
   "version": "0.0.1",
-  "description": "",
+  "description": "Nice Locations",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
@@ -48,6 +48,7 @@
     "ts-loader": "^9.2.3",
     "ts-node": "^10.0.0",
     "tsconfig-paths": "^3.10.1",
+    "tslint-microsoft-contrib": "^6.2.0",
     "typescript": "^4.3.5"
   },
   "jest": {
